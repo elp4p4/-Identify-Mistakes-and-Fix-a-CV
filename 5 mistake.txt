@@ -1,4 +1,4 @@
-Mistake 1: Formatting Issues
+### Mistake 1: Formatting Issues
 
 Issue: The text lacks proper spacing, bullet alignment, and section separation, making it difficult to read.
 
@@ -20,7 +20,7 @@ Innovative Company – New York, USA (2020 - Present)
 - Managed various projects successfully.
 
 
-Mistake 2: Inconsistent Job Title Formatting
+### Mistake 2: Inconsistent Job Title Formatting
 
 Issue: Job titles are not bold or clearly separated from the company names.
 
@@ -37,7 +37,7 @@ After:
 Web Developer
 Startup Dynamic – Los Angeles, USA (May 2018 – Dec 2019)
 
-Mistake 3: Lack of Actionable Details in Bullet Points
+### Mistake 3: Lack of Actionable Details in Bullet Points
 
 Issue: The bullet points are too vague and do not provide measurable results.
 
@@ -53,7 +53,7 @@ After:
 
 Led 5+ cross-functional projects, improving efficiency by 20%.
 
-Mistake 4: Missing Consistency in Date Formatting
+### Mistake 4: Missing Consistency in Date Formatting
 
 Issue: The resume uses "May 2018 to Dec 2019" but "2020 - Current."
 
@@ -71,7 +71,7 @@ After:
 2020 – Present
 May 2018 – December 2019
 
-Mistake 5: "University of Los Angeles" is Not a Real Institution
+### Mistake 5: "University of Los Angeles" is Not a Real Institution
 
 Issue: "University of Los Angeles" does not exist. This should be corrected or clarified.
 
